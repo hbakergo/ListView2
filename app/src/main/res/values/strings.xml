@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ListView2</string>
+    <string name="app_name">ListView e Arrays</string>
+
+    <string name="luke">Luke</string>
+    <string name="lea">Lea</string>
+    <string name="anakin">Anakin</string>
 </resources>
